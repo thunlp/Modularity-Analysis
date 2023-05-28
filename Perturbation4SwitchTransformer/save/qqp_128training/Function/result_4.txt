@@ -1,0 +1,2 @@
+accuracy = 0.763
+epoch = 59 / 150   total_step = 468

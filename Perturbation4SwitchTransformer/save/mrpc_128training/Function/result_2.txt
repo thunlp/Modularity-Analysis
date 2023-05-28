@@ -1,0 +1,2 @@
+accuracy = 0.7843137254901961
+epoch = 49 / 50   total_step = 384
