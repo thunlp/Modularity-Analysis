@@ -1,6 +1,6 @@
 # Modularity Analysis
 
-Source codes and datasets for *[Emergent Modularity in Pre-trained Transformers](https://arxiv.org/abs/2305.18390)*.
+Source codes and datasets for *[Emergent Modularity in Pre-trained Transformers](https://arxiv.org/abs/2305.18390)* (Findings of ACL 2023).
 
 ## Neuron Predictivity Calculation
 
